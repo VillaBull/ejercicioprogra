@@ -1,0 +1,4 @@
+C:\Users\Villa\OneDrive\Escritorio\EjerciciosProgra\obj\Debug\netcoreapp3.1\EjerciciosProgra.csprojAssemblyReference.cache
+C:\Users\Villa\OneDrive\Escritorio\EjerciciosProgra\obj\Debug\netcoreapp3.1\EjerciciosProgra.AssemblyInfoInputs.cache
+C:\Users\Villa\OneDrive\Escritorio\EjerciciosProgra\obj\Debug\netcoreapp3.1\EjerciciosProgra.AssemblyInfo.cs
+C:\Users\Villa\OneDrive\Escritorio\EjerciciosProgra\obj\Debug\netcoreapp3.1\EjerciciosProgra.csproj.CoreCompileInputs.cache
